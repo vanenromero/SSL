@@ -1,5 +1,5 @@
 # SSL
-+ Sintaxis y Semántica de los Lenguajes.c
++ Sintaxis y Semántica de los Lenguajes.
 + Curso: K2052.
 + 2025, cursada anual.
 + Legajo: 2097369.
